@@ -1,5 +1,45 @@
 # qce24-tutorial
 
+
+## Setup
+
+To get set up running with these notebooks, please choose from the following options:
+
+### Locally
+1. Clone this repository to your local machine.
+   ```
+   git clone https://github.com/unitaryfund/qce24-tutorial.git
+   cd qce24-tutorial
+   ```
+
+2. Install the necessary requirements. (This can be done in an existing Python environment or a new )
+   ```
+   pip install mitiq
+   ```
+
+### Virtually
+To run the notebooks virtually, you can  use [Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository): 
+   *To use Codespaces, an active Github account is required.*
+
+1. In the repository, select the green Code button, switch to the Codespaces tab, click the `Create codespace on main` button.
+   ![Codespaces](image.png)
+
+2. When Codespaces has loaded, select the first Jupyter notebook, part1_zne.ipynb from the repository files on the left.
+
+3. At the bottom of the screen a pop-up will recommend installing Python. Click the `Install` button.
+
+4. When python has finished installing, close the `Extension: Python` tab to return to the part1_zne.ipynb notebook.
+
+5. On the right side of the notebook, click `Select Kernel` and then choose `Install/Enable suggested extensions Python + Jupyter`
+![alt text](image-1.png)
+
+6. After the extensions finish installing, select `Python Environments...` and then `Python 3.12.1 ~/.python/current/bin/python` from the `Select Another Kernel` window.
+
+7. With the Python environment setup, run the `%pip install mitiq` code block to install Mitiq into the Python environment.
+
+
+
+
 Meeting notes: https://docs.google.com/document/d/1GkXyXQGVf1bRwu5-mIeLx2rZygNcMVALtiYly0fHa3k/edit?usp=sharing
 
 Link to last year's tutorial: https://github.com/unitaryfund/mitiq-tutorial
