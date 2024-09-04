@@ -21,17 +21,17 @@ To get set up running with these notebooks, please choose from the following opt
 To run the notebooks virtually, you can  use [Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository): 
    *To use Codespaces, an active Github account is required.*
 
-1. In the repository, select the green Code button, switch to the Codespaces tab, click the `Create codespace on main` button.
-   ![Codespaces](image.png)
+1. In the repository, select the green Code button, switch to the Codespaces tab, click the `Create codespace on main` button. ![image](https://github.com/user-attachments/assets/23d1004b-fc28-4717-a9e2-39e579fa2d35)
 
 2. When Codespaces has loaded, select the first Jupyter notebook, part1_zne.ipynb from the repository files on the left.
 
 3. At the bottom of the screen a pop-up will recommend installing Python. Click the `Install` button.
 
-4. When python has finished installing, close the `Extension: Python` tab to return to the part1_zne.ipynb notebook.
+4. When python has finished installing, close the `Extension: Python` tab to return to the part1_zne.ipynb notebook. ![image](https://github.com/user-attachments/assets/0b1eec4e-70c6-4165-aae5-595d9bfd3c89)
 
-5. On the right side of the notebook, click `Select Kernel` and then choose `Install/Enable suggested extensions Python + Jupyter`
-![alt text](image-1.png)
+
+5. On the right side of the notebook, click `Select Kernel` and then choose `Install/Enable suggested extensions Python + Jupyter` ![image](https://github.com/user-attachments/assets/6426f336-3fa9-4400-b7cc-db8e3c722e99)
+
 
 6. After the extensions finish installing, select `Python Environments...` and then `Python 3.12.1 ~/.python/current/bin/python` from the `Select Another Kernel` window.
 
