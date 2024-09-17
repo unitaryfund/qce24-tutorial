@@ -3,7 +3,7 @@
 
 ## Setup
 
-To set up the environment for the Jupyter notebooks, please choose from the following options:
+To set up the environment for the Jupyter notebooks, please choose from one of the following options:
 
 ### Locally
 1. Clone this repository to your local machine.
