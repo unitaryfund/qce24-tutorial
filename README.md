@@ -29,17 +29,18 @@ To run the notebooks virtually, you can  use [Codespaces](https://docs.github.co
 
 4. At the bottom of the screen a pop-up will recommend installing Python. Click the `Install` button.
 
-5. When python has finished installing, close the `Extension: Python` tab to return to the part1_zne.ipynb notebook.
+5. When python has finished installing, close the `Extension: Python` tab to return to the `part1_zne.ipynb` notebook.
+
 ![image](https://github.com/user-attachments/assets/0b1eec4e-70c6-4165-aae5-595d9bfd3c89)
 
 
-6. On the right side of the notebook, click `Select Kernel` and then choose `Install/Enable suggested extensions Python + Jupyter`
+7. On the right side of the notebook, click `Select Kernel` and then choose `Install/Enable suggested extensions Python + Jupyter`
 ![image](https://github.com/user-attachments/assets/6426f336-3fa9-4400-b7cc-db8e3c722e99)
 
 
-7. After the extensions finish installing, select `Python Environments...` and then `Python 3.12.1 ~/.python/current/bin/python` from the `Select Another Kernel` window.
+8. After the extensions finish installing, select `Python Environments...` and then `Python 3.12.1 ~/.python/current/bin/python` from the `Select Another Kernel` window.
 
-8. With the Python environment setup, run the `%pip install mitiq` code block to install Mitiq into the Python environment.
+9. With the Python environment setup, run the `%pip install mitiq` code block to install Mitiq into the Python environment.
 
 
 
