@@ -1,9 +1,9 @@
-# qce24-tutorial
+# IEEE Quantum Week Mitiq Tutorial
 
 
 ## Setup
 
-To get set up the environment to run the notebooks, please choose from the following options:
+To set up the environment for the Jupyter notebooks, please choose from the following options:
 
 ### Locally
 1. Clone this repository to your local machine.
