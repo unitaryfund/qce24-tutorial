@@ -1,5 +1,6 @@
 # IEEE Quantum Week Mitiq Tutorial
 
+[Slides](https://docs.google.com/presentation/d/1atekUqvwuAlgUWPjn9lxY3Z_ykdrwSTPjGuGP0CDhYA/edit?usp=sharing)
 
 ## Setup
 
