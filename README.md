@@ -45,4 +45,3 @@ To run the notebooks virtually, you can  use [Codespaces](https://docs.github.co
 
 
 ---
-Link to last year's tutorial: https://github.com/unitaryfund/mitiq-tutorial
