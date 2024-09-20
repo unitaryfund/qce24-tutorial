@@ -1,6 +1,7 @@
-# IEEE Quantum Week Mitiq Tutorial
+# IEEE Quantum Week 2024 Mitiq Tutorial
 
-[Slides](https://docs.google.com/presentation/d/1atekUqvwuAlgUWPjn9lxY3Z_ykdrwSTPjGuGP0CDhYA/edit?usp=sharing)
+The readme of this repo contains instructions for how to setup your code environment. The slides for both parts of the tutorial
+are available [here](https://docs.google.com/presentation/d/1atekUqvwuAlgUWPjn9lxY3Z_ykdrwSTPjGuGP0CDhYA/edit?usp=sharing).
 
 ## Setup
 
