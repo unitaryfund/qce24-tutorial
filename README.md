@@ -45,4 +45,11 @@ To run the notebooks virtually, you can  use [Codespaces](https://docs.github.co
 9. With the Python environment setup, run the `%pip install mitiq` code block to install Mitiq into the Python environment.
 
 
----
+## Resources
+
+- [Mitiq documentation](https://mitiq.readthedocs.io/en/stable/)
+- [ZNE user guide](https://mitiq.readthedocs.io/en/stable/guide/zne.html)
+- [Pauli Twirling user guide](https://mitiq.readthedocs.io/en/stable/guide/pt.html)
+- [Calibration user guide](https://mitiq.readthedocs.io/en/stable/guide/calibrators.html)
+- [Mitiq Examples](https://mitiq.readthedocs.io/en/stable/examples/examples.html)
+
